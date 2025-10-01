@@ -12,12 +12,12 @@ Web Resources
 
 Here is an Other Minds bibliography (to be updated--let me know of any additions).
 
-On writing, see Jim Pryor's [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html), and Strunk's [Elements of Style](http://www.bartleby.com/141/index.html).
+On writing, see Jim Pryor's {{% resource_link "434db3b5-ccfe-4280-89fd-2801024b6ac5" "Guidelines on Writing a Philosophy Paper" %}}, and Strunk's {{% resource_link "fbf3004e-fa55-47d5-81e0-84df699c0381" "Elements of Style" %}}.
 
-Useful glossaries are Jim Pryor's Philosophical Terms and Methods and the [Dictionary of Philosophy of Mind](http://philosophy.uwaterloo.ca/MindDict/).
+Useful glossaries are Jim Pryor's Philosophical Terms and Methods and the {{% resource_link "e44eb4ef-a970-48ff-8517-8986c67b2e0e" "Dictionary of Philosophy of Mind" %}}.
 
-David Chalmers' [Web Resources Relating to Consciousness, and Such](http://consc.net/resources/) is well worth browsing, as is his [website](http://consc.net/chalmers/).
+David Chalmers' {{% resource_link "5a66267e-ed5c-4c33-bcd2-a7f41dc708d8" "Web Resources Relating to Consciousness, and Such" %}} is well worth browsing, as is his {{% resource_link "f9c2c4b4-ad47-4f2b-8a86-439ce0d3fc8c" "website" %}}.
 
-The [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/contents.html) (SEP) is excellent, but far from complete.
+The {{% resource_link "ae83e4d5-8571-4fae-b422-bd0ccf5c7222" "Stanford Encyclopedia of Philosophy" %}} (SEP) is excellent, but far from complete.
 
-See the [MIT philosophy](http://mit.edu/philos/www/) page for colloquia dates, other philosophy subject information, etc.
+See the {{% resource_link "25729abd-decb-423b-83d6-07b047311493" "MIT philosophy" %}} page for colloquia dates, other philosophy subject information, etc.
